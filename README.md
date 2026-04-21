@@ -12,7 +12,7 @@ Soy profesora de Bachillerato en Desarrollo de Software, actualmente trabajo en 
 </p>
 <p align="left">
   
-  👨‍💻Mi perfil de enlace en GitHub: github.com/griseldamariaduran
+  👨‍💻Mi perfil de enlace en GitHub: https://github.com/griseldamariaduran/griseldamariaduran
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
