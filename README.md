@@ -1,4 +1,5 @@
 <h1 align="center">Hola 👋, soy GRISELDA MARIA TERESA DURAN RIVAS</h1>
+
 <h3 align="center">Soy profesora de Bachillerato en Desarrollo de Software, actualmente trabajo en el Instituto Nacional de San Sebastián, me gusta enseñar nuevas herramientas a mis estudiantes, por ello estoy cursando un Bootcamp de Tansformació digital para la docencia tecnica. </h3>
 
 - 📫Puedes contactarme **griselda.maria.duran@clases.edu.sv**
@@ -7,6 +8,10 @@
 <p align="left">
   
   Proyecto de N8N: Trata de la creación de un flujo de automatización de mensajes por correo electronico a estudiantes con el resultado de su califiación obtenida. Puedes verlo dando clic en el siguiente enlace: https://learn-n8n.kodigo.org/workflow/19yoDc047UtpwME9ca9Ea
+</p>
+<p align="left">
+  
+  Mi perfil de enlace en GitHub: 
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
