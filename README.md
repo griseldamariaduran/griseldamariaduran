@@ -6,7 +6,7 @@
 
 <p align="left">
   
-  Proyecto de N8N
+  Proyecto de N8N: Trata de la creación de un flujo de automatización de mensajes por correo electronico a estudiantes con el resultado de su califiación obtenida. Puedes verlo dando clic en el siguiente enlace: https://learn-n8n.kodigo.org/workflow/19yoDc047UtpwME9ca9Ea
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
