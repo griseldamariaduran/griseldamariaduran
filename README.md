@@ -11,7 +11,7 @@
 </p>
 <p align="left">
   
-  Mi perfil de enlace en GitHub: 
+  👨‍💻Mi perfil de enlace en GitHub: 
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
