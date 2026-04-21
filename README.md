@@ -1,6 +1,7 @@
 <h1 align="center">Hola 👋, soy GRISELDA MARIA TERESA DURAN RIVAS</h1>
 
-<h3 align="center">Soy profesora de Bachillerato en Desarrollo de Software, actualmente trabajo en el Instituto Nacional de San Sebastián, me gusta enseñar nuevas herramientas a mis estudiantes, por ello estoy cursando un Bootcamp de Tansformació digital para la docencia tecnica. </h3>
+<h3 align="center"><img width="24" height="24" alt="profesor" src="https://github.com/user-attachments/assets/1ea141ea-71f3-455b-b517-9dcc08a25c3b" />
+Soy profesora de Bachillerato en Desarrollo de Software, actualmente trabajo en el Instituto Nacional de San Sebastián, me gusta enseñar nuevas herramientas a mis estudiantes, por ello estoy cursando un Bootcamp de Tansformació digital para la docencia tecnica. </h3>
 
 - 📫Puedes contactarme **griselda.maria.duran@clases.edu.sv**
 
@@ -11,7 +12,7 @@
 </p>
 <p align="left">
   
-  👨‍💻Mi perfil de enlace en GitHub: 
+  👨‍💻Mi perfil de enlace en GitHub: github.com/griseldamariaduran
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
