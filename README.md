@@ -88,6 +88,32 @@ Soy profesora de Bachillerato en Desarrollo de Software, actualmente trabajo en 
         </a>
       </td>
     </tr>
+    <tr>
+      <td>NotebookLM</td>
+      <td>
+        <a href="https://notebooklm.google.com/" target="_blank" rel="noreferrer">
+          <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/notebooklm-icon.svg" alt="notebooklm" width="40" height="40"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>n8n</td>
+      <td>
+        <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/n8n.svg" alt="n8n" width="40" height="40"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Canva</td>
+      <td>
+        <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
+     
+       
 
